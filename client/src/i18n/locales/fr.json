@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Salut, je suis",
+    "name": "John Developer",
+    "description": "Développeur Full-Stack passionné par la création d'expériences numériques belles, fonctionnelles et centrées sur l'utilisateur.",
+    "viewWork": "Voir mes projets",
+    "getInTouch": "Me contacter"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "subtitle": "Développeur passionné avec une expertise en technologies web modernes",
+    "description1": "Je suis un développeur full-stack passionné avec plus de 5 ans d'expérience dans la création de solutions numériques qui font la différence. Je me spécialise en React, Node.js et technologies web modernes.",
+    "description2": "Quand je ne code pas, vous pouvez me trouver en train d'explorer de nouvelles technologies, de contribuer à des projets open-source, ou de partager des connaissances avec la communauté des développeurs.",
+    "projects": "Projets",
+    "years": "Années",
+    "commits": "Commits",
+    "technicalSkills": "Compétences techniques"
+  },
+  "projects": {
+    "title": "Projets en vedette",
+    "subtitle": "Une collection de projets qui démontrent mes compétences et ma passion pour le développement",
+    "liveDemo": "Démo en direct",
+    "code": "Code",
+    "viewAll": "Voir tous les projets"
+  },
+  "contact": {
+    "title": "Entrez en contact",
+    "subtitle": "Je suis toujours ouvert à discuter de nouvelles opportunités et de projets intéressants",
+    "email": "Email",
+    "phone": "Téléphone",
+    "location": "Localisation",
+    "availability": "Disponibilité",
+    "availabilityStatus": "Ouvert au travail freelance",
+    "followMe": "Suivez-moi",
+    "readyToStart": "Prêt à démarrer un projet ?",
+    "letsDiscuss": "Discutons de la façon dont nous pouvons donner vie à vos idées",
+    "sendMessage": "Envoyer un message"
+  },
+  "footer": {
+    "tagline": "Créer des expériences numériques qui font la différence",
+    "quickLinks": "Liens rapides",
+    "services": "Services",
+    "webDev": "Développement Web",
+    "mobileApps": "Applications mobiles",
+    "uiux": "Design UI/UX",
+    "consulting": "Conseil",
+    "copyright": "© 2024 John Developer. Tous droits réservés."
+  }
+}

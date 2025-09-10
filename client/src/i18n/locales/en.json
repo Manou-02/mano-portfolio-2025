@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "John Developer",
+    "description": "Full-Stack Developer passionate about creating beautiful, functional, and user-centered digital experiences.",
+    "viewWork": "View My Work",
+    "getInTouch": "Get In Touch"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Passionate developer with expertise in modern web technologies",
+    "description1": "I'm a passionate full-stack developer with over 5 years of experience creating digital solutions that make a difference. I specialize in React, Node.js, and modern web technologies.",
+    "description2": "When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.",
+    "projects": "Projects",
+    "years": "Years",
+    "commits": "Commits",
+    "technicalSkills": "Technical Skills"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "A collection of projects that showcase my skills and passion for development",
+    "liveDemo": "Live Demo",
+    "code": "Code",
+    "viewAll": "View All Projects"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "I'm always open to discussing new opportunities and interesting projects",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "availability": "Availability",
+    "availabilityStatus": "Open for freelance work",
+    "followMe": "Follow Me",
+    "readyToStart": "Ready to start a project?",
+    "letsDiscuss": "Let's discuss how we can bring your ideas to life",
+    "sendMessage": "Send Message"
+  },
+  "footer": {
+    "tagline": "Creating digital experiences that make a difference",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "webDev": "Web Development",
+    "mobileApps": "Mobile Apps",
+    "uiux": "UI/UX Design",
+    "consulting": "Consulting",
+    "copyright": "© 2024 John Developer. All rights reserved."
+  }
+}
