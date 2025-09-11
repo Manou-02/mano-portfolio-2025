@@ -103,11 +103,11 @@ export function Footer() {
                   {t("footer.mobileApps")}
                 </span>
               </li>
-              <li>
+              {/* <li>
                 <span className="text-muted-foreground">
                   {t("footer.uiux")}
                 </span>
-              </li>
+              </li> */}
               <li>
                 <span className="text-muted-foreground">
                   {t("footer.consulting")}
