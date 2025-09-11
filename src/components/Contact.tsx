@@ -186,7 +186,8 @@ export function Contact() {
             transition={{ duration: 0.8, delay: 0.3 }}
           >
             <img
-              src="https://images.unsplash.com/photo-1553484771-371a605b060b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600"
+              // src="https://images.unsplash.com/photo-1553484771-371a605b060b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600"
+              src={portfolioData.contact.illustration}
               alt="Modern workspace setup"
               className="rounded-xl shadow-2xl w-full h-auto"
               data-testid="contact-workspace-image"

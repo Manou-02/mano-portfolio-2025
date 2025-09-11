@@ -124,6 +124,7 @@ export const portfolioData = {
     email: "manou.rakotoarivelo02@gmail.com",
     phone: "+261 37 75 081 65",
     location: "Antananarivo, Madagascar",
+    illustration: IMAGE_CONSTANT.work,
     social: {
       github: "https://github.com/Manou-02",
       linkedin: "https://www.linkedin.com/in/mano-rakotoarivelo-003685195/",
