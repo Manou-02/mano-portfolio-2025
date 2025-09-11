@@ -3,6 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
 import { useTheme } from './ThemeProvider';
 import { Button } from '@/components/ui/button';
+import { portfolioData } from '@/constants/portfolio';
 
 export function Navigation() {
   const { t, i18n } = useTranslation();
@@ -42,7 +43,7 @@ export function Navigation() {
               className="text-xl font-bold gradient-text hover:opacity-80 transition-opacity"
               data-testid="logo-button"
             >
-              DevPortfolio
+              {portfolioData.siteName}
             </button>
           </div>
           
