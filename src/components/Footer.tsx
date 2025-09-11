@@ -26,7 +26,7 @@ export function Footer() {
               className="text-xl font-bold gradient-text mb-4"
               data-testid="footer-brand"
             >
-              DevPortfolio
+              {portfolioData.siteName}
             </h3>
             <p
               className="text-muted-foreground text-sm"
@@ -169,7 +169,7 @@ export function Footer() {
             >
               <i className="fab fa-linkedin"></i>
             </a>
-            <a
+            {/* <a
               href={portfolioData.contact.social.twitter}
               target="_blank"
               rel="noopener noreferrer"
@@ -177,7 +177,7 @@ export function Footer() {
               data-testid="footer-twitter"
             >
               <i className="fab fa-twitter"></i>
-            </a>
+            </a> */}
             <a
               href={`mailto:${portfolioData.contact.email}`}
               className="text-muted-foreground hover:text-foreground transition-colors duration-200"
