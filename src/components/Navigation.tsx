@@ -64,6 +64,7 @@ export function Navigation() {
               >
                 {t("nav.about")}
               </button>
+              {/* Project section  */}
               {/* <button 
                 onClick={() => scrollToSection('projects')}
                 className="text-foreground hover:text-primary transition-colors duration-200 font-medium"

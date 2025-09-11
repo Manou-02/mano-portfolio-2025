@@ -72,14 +72,15 @@ export function Hero() {
               transition={{ duration: 0.6, delay: 0.6 }}
               className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-8"
             >
-              <Button
+              {/* Project section  */}
+              {/* <Button
                 onClick={() => scrollToSection("projects")}
                 className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-3 rounded-lg font-medium transition-all duration-200 transform hover:scale-105 inline-flex items-center gap-2"
                 data-testid="view-work-button"
               >
                 <span>{t("hero.viewWork")}</span>
                 <i className="fas fa-arrow-right"></i>
-              </Button>
+              </Button> */}
               <Button
                 variant="outline"
                 onClick={() => scrollToSection("contact")}
