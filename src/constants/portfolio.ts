@@ -1,7 +1,7 @@
 import { IMAGE_CONSTANT } from "./image";
 
 export const portfolioData = {
-    siteName : "Mano's Portfolio",
+    siteName : "Mano Developer",
   personal: {
     name: "Mano Developer",
     title: "Full-Stack Developer",

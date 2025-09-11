@@ -7,7 +7,7 @@
   },
   "hero": {
     "greeting": "Salut, je suis",
-    "name": "John Developer",
+    "name": "Mano Rakotoarivelo",
     "description": "Développeur Full-Stack passionné par la création d'expériences numériques belles, fonctionnelles et centrées sur l'utilisateur.",
     "viewWork": "Voir mes projets",
     "getInTouch": "Me contacter"
@@ -50,6 +50,6 @@
     "mobileApps": "Applications mobiles",
     "uiux": "Design UI/UX",
     "consulting": "Conseil",
-    "copyright": "© 2024 John Developer. Tous droits réservés."
+    "copyright": "Mano Développeur. Tous droits réservés."
   }
 }
