@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
       <Helmet>
-        <title>John Developer - Full-Stack Developer Portfolio</title>
+        <title>Mano - Développeur</title>
         <meta
           name="description"
           content="Professional full-stack developer portfolio showcasing modern web development projects and skills in React, TypeScript, Node.js and more."
@@ -22,10 +22,7 @@ export default function Home() {
           name="keywords"
           content="developer, portfolio, react, typescript, web development, full-stack, javascript, node.js"
         />
-        <meta
-          property="og:title"
-          content="John Developer - Full-Stack Developer Portfolio"
-        />
+        <meta property="og:title" content="Mano - Développeur" />
         <meta
           property="og:description"
           content="Professional full-stack developer portfolio showcasing modern web development projects and skills in React, TypeScript, Node.js and more."
@@ -36,10 +33,7 @@ export default function Home() {
           content="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&h=630"
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta
-          name="twitter:title"
-          content="John Developer - Full-Stack Developer Portfolio"
-        />
+        <meta name="twitter:title" content="Mano - Développeur" />
         <meta
           name="twitter:description"
           content="Professional full-stack developer portfolio showcasing modern web development projects and skills."
