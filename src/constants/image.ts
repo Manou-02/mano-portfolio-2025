@@ -1,5 +1,5 @@
 import profil from "@/assets/profil.jpeg";
-import work from "@/assets/illustration/work.png";
+import work from "@/assets/illustration/Work.png";
 
 export const IMAGE_CONSTANT = {
   profil: profil,
