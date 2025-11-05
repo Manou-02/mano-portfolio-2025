@@ -1,5 +1,5 @@
 import { Helmet } from "react-helmet-async";
-import { useTranslation } from "react-i18next";
+// import { useTranslation } from "react-i18next";
 import { Navigation } from "@/components/Navigation";
 import { Hero } from "@/components/Hero";
 import { About } from "@/components/About";
@@ -8,7 +8,7 @@ import { Contact } from "@/components/Contact";
 import { Footer } from "@/components/Footer";
 
 export default function Home() {
-  const { t } = useTranslation();
+  // const { t } = useTranslation();
 
   return (
     <>
@@ -46,7 +46,7 @@ export default function Home() {
         <main>
           <Hero />
           <About />
-          {/* <Projects /> */}
+          <Projects />
           <Contact />
         </main>
         <Footer />
