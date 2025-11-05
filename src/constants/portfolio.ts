@@ -80,45 +80,45 @@ export const portfolioData = {
       liveUrl: "#",
       githubUrl: "#",
     },
-    {
-      id: 4,
-      title: "Analytics Dashboard",
-      description:
-        "Comprehensive analytics platform with real-time data visualization",
-      descriptionFr:
-        "Plateforme d'analyse complète avec visualisation de données en temps réel",
-      image:
-        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
-      technologies: ["Next.js", "D3.js", "PostgreSQL", "Redis"],
-      liveUrl: "#",
-      githubUrl: "#",
-    },
-    {
-      id: 5,
-      title: "Fitness Tracker",
-      description:
-        "Mobile-first fitness app with workout tracking and progress analytics",
-      descriptionFr:
-        "Application fitness mobile avec suivi d'entraînement et analyses de progression",
-      image:
-        "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
-      technologies: ["React Native", "Expo", "SQLite", "Health Kit"],
-      liveUrl: "#",
-      githubUrl: "#",
-    },
-    {
-      id: 6,
-      title: "Blog Platform",
-      description:
-        "Modern blogging platform with CMS, SEO optimization, and community features",
-      descriptionFr:
-        "Plateforme de blog moderne avec CMS, optimisation SEO et fonctionnalités communautaires",
-      image:
-        "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
-      technologies: ["Gatsby", "GraphQL", "Contentful", "Netlify"],
-      liveUrl: "#",
-      githubUrl: "#",
-    },
+    // {
+    //   id: 4,
+    //   title: "Analytics Dashboard",
+    //   description:
+    //     "Comprehensive analytics platform with real-time data visualization",
+    //   descriptionFr:
+    //     "Plateforme d'analyse complète avec visualisation de données en temps réel",
+    //   image:
+    //     "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
+    //   technologies: ["Next.js", "D3.js", "PostgreSQL", "Redis"],
+    //   liveUrl: "#",
+    //   githubUrl: "#",
+    // },
+    // {
+    //   id: 5,
+    //   title: "Fitness Tracker",
+    //   description:
+    //     "Mobile-first fitness app with workout tracking and progress analytics",
+    //   descriptionFr:
+    //     "Application fitness mobile avec suivi d'entraînement et analyses de progression",
+    //   image:
+    //     "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
+    //   technologies: ["React Native", "Expo", "SQLite", "Health Kit"],
+    //   liveUrl: "#",
+    //   githubUrl: "#",
+    // },
+    // {
+    //   id: 6,
+    //   title: "Blog Platform",
+    //   description:
+    //     "Modern blogging platform with CMS, SEO optimization, and community features",
+    //   descriptionFr:
+    //     "Plateforme de blog moderne avec CMS, optimisation SEO et fonctionnalités communautaires",
+    //   image:
+    //     "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
+    //   technologies: ["Gatsby", "GraphQL", "Contentful", "Netlify"],
+    //   liveUrl: "#",
+    //   githubUrl: "#",
+    // },
   ],
   contact: {
     email: "manou.rakotoarivelo02@gmail.com",
