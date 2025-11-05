@@ -55,7 +55,7 @@ export function Footer() {
                 </button>
               </li>
               {/* Project section  */}
-              {/* <li>
+              <li>
                 <button
                   onClick={() => scrollToSection("projects")}
                   className="text-muted-foreground hover:text-foreground transition-colors duration-200"
@@ -63,7 +63,7 @@ export function Footer() {
                 >
                   {t("nav.projects")}
                 </button>
-              </li> */}
+              </li>
               <li>
                 <button
                   onClick={() => scrollToSection("contact")}

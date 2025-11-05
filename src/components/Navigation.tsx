@@ -65,13 +65,13 @@ export function Navigation() {
                 {t("nav.about")}
               </button>
               {/* Project section  */}
-              {/* <button 
-                onClick={() => scrollToSection('projects')}
+              <button
+                onClick={() => scrollToSection("projects")}
                 className="text-foreground hover:text-primary transition-colors duration-200 font-medium"
                 data-testid="nav-projects"
               >
-                {t('nav.projects')}
-              </button> */}
+                {t("nav.projects")}
+              </button>
               <button
                 onClick={() => scrollToSection("contact")}
                 className="text-foreground hover:text-primary transition-colors duration-200 font-medium"

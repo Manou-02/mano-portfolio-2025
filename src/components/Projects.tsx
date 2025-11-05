@@ -106,14 +106,14 @@ export function Projects() {
                   </div>
 
                   <div className="flex gap-4">
-                    <a
+                    {/* <a
                       href={project.liveUrl}
                       className="text-primary hover:text-primary/80 font-medium transition-colors duration-200 inline-flex items-center gap-2"
                       data-testid={`project-live-demo-${project.id}`}
                     >
                       <i className="fas fa-external-link-alt"></i>
                       <span>{t("projects.liveDemo")}</span>
-                    </a>
+                    </a> */}
                     <a
                       href={project.githubUrl}
                       className="text-muted-foreground hover:text-foreground font-medium transition-colors duration-200 inline-flex items-center gap-2"
