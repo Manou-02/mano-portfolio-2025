@@ -4,7 +4,6 @@ import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 import { portfolioData } from "@/constants/portfolio";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
 
 export function Projects() {
   const { t, i18n } = useTranslation();
