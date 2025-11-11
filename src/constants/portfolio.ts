@@ -88,8 +88,10 @@ export const portfolioData = {
     // },
   ],
   contact: {
-    email: "manou.rakotoarivelo02@gmail.com",
-    phone: "+261 37 75 081 65",
+    email: "mrakotoarivelo97@gmail.com",
+    // email: "manou.rakotoarivelo02@gmail.com",
+    phone: "+261 34 18 096 80",
+    // phone: "+261 37 75 081 65",
     location: "Antananarivo, Madagascar",
     illustration: IMAGE_CONSTANT.work,
     social: {
