@@ -125,13 +125,13 @@ export function About() {
             </h3>
 
             <div className="space-y-6">
-              {/* Frontend */}
+              {/* Mobile */}
               <div>
                 <h4
                   className="font-semibold mb-3 text-primary"
                   data-testid="frontend-title"
                 >
-                  Mobile
+                  {t("about.mobile")}
                 </h4>
                 <div
                   className="flex flex-wrap gap-2"
@@ -153,7 +153,7 @@ export function About() {
                   className="font-semibold mb-3 text-primary"
                   data-testid="frontend-title"
                 >
-                  Front-end
+                  {t("about.frontend")}
                 </h4>
                 <div
                   className="flex flex-wrap gap-2"
@@ -177,7 +177,7 @@ export function About() {
                   className="font-semibold mb-3 text-primary"
                   data-testid="backend-title"
                 >
-                  Back-end
+                  {t("about.backend")}
                 </h4>
                 <div
                   className="flex flex-wrap gap-2"
@@ -201,7 +201,7 @@ export function About() {
                   className="font-semibold mb-3 text-primary"
                   data-testid="tools-title"
                 >
-                  Tools & Others
+                  {t("about.tools")}
                 </h4>
                 <div
                   className="flex flex-wrap gap-2"
