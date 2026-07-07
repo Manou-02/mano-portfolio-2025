@@ -9,13 +9,14 @@ export const portfolioData = {
     profileImage: IMAGE_CONSTANT.profil,
     stats: {
       projects: "10+",
-      years: "3+",
-      commits: "100+",
+      years: "4+",
+      commits: "1000+",
     },
   },
   skills: {
+    mobile: ["React native"],
     frontend: [
-      "React",
+      "React.js",
       "Vue.js",
       "TypeScript",
       "TailwindCSS",
@@ -26,8 +27,11 @@ export const portfolioData = {
     backend: [
       "Node.js",
       "Php",
-      "Express",
+      "Express.js",
+      "NestJS",
+      "Laravel",
       "MySQL",
+      "PostgreSql",
       "MongoDB",
       "GraphQL",
       "REST APIs",
@@ -39,6 +43,8 @@ export const portfolioData = {
       "Figma",
       "Jest",
       "Cypress",
+      "notion",
+      "clickUp",
     ],
   },
   projects: [
