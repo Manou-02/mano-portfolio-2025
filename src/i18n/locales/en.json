@@ -20,7 +20,11 @@
     "projects": "Projects",
     "years": "Years",
     "commits": "Commits",
-    "technicalSkills": "Technical Skills"
+    "technicalSkills": "Technical Skills",
+    "mobile": "Mobile",
+    "frontend": "Front-end",
+    "backend": "Back-end",
+    "tools": "Tools & Others"
   },
   "projects": {
     "title": "Featured Projects",
