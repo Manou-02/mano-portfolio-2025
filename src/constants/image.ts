@@ -1,4 +1,5 @@
-import profil from "@/assets/profil.jpeg";
+// import profil from "@/assets/profil.jpeg";
+import profil from "@/assets/profil2.jpeg";
 import work from "@/assets/illustration/Work.png";
 import project_1 from "@/assets/images/project_1.jpeg";
 

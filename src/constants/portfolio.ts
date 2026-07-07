@@ -16,10 +16,11 @@ export const portfolioData = {
   skills: {
     frontend: [
       "React",
-      "TypeScript",
       "Vue.js",
+      "TypeScript",
       "TailwindCSS",
       "Next.js",
+      "Nuxt.js",
       "Vite",
     ],
     backend: [
